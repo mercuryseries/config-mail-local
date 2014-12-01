@@ -1,1 +1,6 @@
+## POUR XAMPP ##
 sendmail_path = "\"C:\xampp\sendmail\sendmail.exe\" -t"
+
+
+## POUR WAMP ##
+sendmail_path = "\"C:\wamp\sendmail\sendmail.exe\" -t"
